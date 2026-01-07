@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <div align="center">  
-  <img width="41%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slayerkkkk" />
+  <img width="41%" height="195px" src="https://github-readme-stats-lime-ten-54.vercel.app/api?username=slayerkkkk&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117" />
 </div>
 
 ## ☠ Skills:
