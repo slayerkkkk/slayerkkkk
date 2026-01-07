@@ -1,7 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats-lime-ten-54.vercel.app/api?username=slayerkkkk&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117" />
+<div align="center">
+<img src="https://github-readme-stats-lime-ten-54.vercel.app/api?username=slayerkkkk&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117"/>
+<img src="https://github-readme-stats-lime-ten-54.vercel.app/api/top-langs/?username=slayerkkkk&layout=compact&count_weight=0&exclude_repo=nvim,Pentest,ricebyhowo,agrinho25,hoWoS,Yollor&hide=html,css,php,Makefile,shell,Powershell,nvmrc&theme=tokyonight&hide_border=true&bg_color=0d1117">
 </div>
 
 ## ☠ Skills:
